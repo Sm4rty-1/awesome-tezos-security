@@ -38,13 +38,24 @@ This repository serves as a comprehensive resource that delves into the various 
 - [Michelson code reviews](https://inference.ag/blog/2022-05-11-michelson/)
 - [LigoLang Security](https://ligolang.org/docs/tutorials/security/)
 - [Michelson Anti-Patterns](https://tezos.gitlab.io/developer/michelson_anti_patterns.html)
-
+- [Testing and Debugging Ligo](https://ligolang.org/docs/advanced/testing?lang=jsligo)
 ---
 
 ## Gas Optimizations 
 - [The Tezos gas model ](https://gitlab.com/tezos/tezos/-/blob/52a074ab3eb43ad0087804b8521f36cb517f7c28/docs/whitedoc/gas_consumption.rst)
 - [Tezos Code Optimization](https://github.com/InferenceAG/TezosCodeOptimization)
 - [Ligolang Gas Optimizations](https://ligolang.org/docs/tutorials/optimisation/?lang=jsligo)
+
+---
+
+## Video Tutorials: 
+- [Tezos research and development Series by Nomadiclabs](https://www.youtube.com/watch?v=2jd-1VxzmQ0&list=PLfjHt2_9f_EwJh1Yr3zgRZnqrc-koohC7)
+- [Building a dapp on Tezos in SmartPy - Part 1](https://www.youtube.com/watch?v=yZs06D4tjI4)
+- [Building a dapp on Tezos in SmartPy - Part 2](https://www.youtube.com/watch?v=CCk5IO-IzZE&)
+- [How to build a front-end of a Tezos dapp](https://www.youtube.com/watch?v=wN3OvPh0OzY)
+- [Token Standards on Tezos FA1.2 & FA2](https://www.youtube.com/watch?v=zKCpbVQ1E14)
+- [Building a dapp on Tezos in LIGO - Part 1](https://www.youtube.com/watch?v=IvZdupLVyGc)
+- [Building a dapp on Tezos in LIGO - Part 2](https://www.youtube.com/watch?v=WRvRIHPjVBc)
 
 ---
 
