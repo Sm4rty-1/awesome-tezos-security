@@ -8,6 +8,7 @@ This repository serves as a comprehensive resource that delves into the various 
 
 ### References:
 [Common Tezos Smart contract Vulnerability ~ OpenTezos](https://opentezos.com/smart-contracts/avoiding-flaws/)
+
 [Lilolang Security](https://ligolang.org/docs/tutorials/security/?lang=jsligo)
 
 ---
@@ -60,7 +61,19 @@ This repository serves as a comprehensive resource that delves into the various 
 ---
 
 ## Miscellaneous Resources:
-- [Awesome Tezos](https://github.com/[kevinelliott](https://github.com/kevinelliott/awesome-tezos)/awesome-tezos)
+- [Awesome Tezos](https://github.com/kevinelliott/awesome-tezos)
 - [Awesome SmartPy](https://github.com/JonathanReiss15/awesome-smartpy)
 - [Open Tezos](https://opentezos.com/)
 - [Tezos Developer Resources](https://tezos.gitlab.io/index.html)
+
+---
+
+### Official Resources and Community 🌐
+
+- [Discord](https://discord.com/invite/udZwhQn)
+- [Forum](https://forum.tezosagora.org/)
+- [Telegram](https://t.me/tezosplatform)
+- [Twitter](https://twitter.com/tezos)
+- [Website](https://tezos.com/)
+- [Developer Portal](https://tezos.com/developer-portal)
+- [Source Code at GitLab](https://gitlab.com/tezos/tezos)
