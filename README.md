@@ -2,11 +2,18 @@
 This repository serves as a comprehensive resource that delves into the various security aspects of the Tezos blockchain and provides best practices for developing secure smart contracts.
 
 ## Tezos Smart contract Vulnerability List:
-[Common Tezos Smart contract Vulnerability ~ OpenTezos](https://opentezos.com/smart-contracts/avoiding-flaws/)
+![](assets/Tezos-Attack-Vectors.pdf)
 
+**PDF Version:** [Tezos-Attack-Vectors.pdf](assets/Tezos-Attack-Vectors.pdf)
+
+### References:
+[Common Tezos Smart contract Vulnerability ~ OpenTezos](https://opentezos.com/smart-contracts/avoiding-flaws/)
 [Lilolang Security](https://ligolang.org/docs/tutorials/security/?lang=jsligo)
 
+---
+
 ## Security checklist for Tezos smart contracts
+- [TezosSecurityBaselineChecking](https://github.com/InferenceAG/TezosSecurityBaselineChecking)
 - [TezosSecurity Checklist V1 by Inference](https://github.com/InferenceAG/TezosSecurityAssessmentChecklist/blob/master/publications/v1.0/Tezos%20smart%20contract%20security%20assessment%20checklist%20-%20v1.0.pdf)
 - [TezosSecurity Checklist V1.1 by Inference](https://github.com/InferenceAG/TezosSecurityAssessmentChecklist/blob/master/publications/v1.1/Tezos%20smart%20contract%20security%20assessment%20checklist%20-%20v1.1.pdf)
 - [TezosSecurity Checklist V1.2 by Inference](https://github.com/InferenceAG/TezosSecurityAssessmentChecklist/blob/master/publications/v1.2/Tezos%20smart%20contract%20security%20assessment%20checklist%20-%20v1.2.pdf)
@@ -32,11 +39,14 @@ This repository serves as a comprehensive resource that delves into the various 
 - [LigoLang Security](https://ligolang.org/docs/tutorials/security/)
 - [Michelson Anti-Patterns](https://tezos.gitlab.io/developer/michelson_anti_patterns.html)
 
+---
+
 ## Gas Optimizations 
 - [The Tezos gas model ](https://gitlab.com/tezos/tezos/-/blob/52a074ab3eb43ad0087804b8521f36cb517f7c28/docs/whitedoc/gas_consumption.rst)
 - [Tezos Code Optimization](https://github.com/InferenceAG/TezosCodeOptimization)
 - [Ligolang Gas Optimizations](https://ligolang.org/docs/tutorials/optimisation/?lang=jsligo)
 
+---
 
 ## Miscellaneous Resources:
 - [Awesome Tezos](https://github.com/[kevinelliott](https://github.com/kevinelliott/awesome-tezos)/awesome-tezos)
