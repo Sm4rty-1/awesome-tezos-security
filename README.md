@@ -3,6 +3,7 @@ This repository serves as a comprehensive resource that delves into the various 
 
 ## Tezos Smart contract Vulnerability List:
 [Common Tezos Smart contract Vulnerability ~ OpenTezos](https://opentezos.com/smart-contracts/avoiding-flaws/)
+
 [Lilolang Security](https://ligolang.org/docs/tutorials/security/?lang=jsligo)
 
 ## Security checklist for Tezos smart contracts
