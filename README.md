@@ -2,7 +2,7 @@
 This repository serves as a comprehensive resource that delves into the various security aspects of the Tezos blockchain and provides best practices for developing secure smart contracts.
 
 ## Tezos Smart contract Vulnerability List:
-![](assets/Tezos-Attack-Vectors.pdf)
+![](assets/Tezos-Attack-Vectors.png)
 
 **PDF Version:** [Tezos-Attack-Vectors.pdf](assets/Tezos-Attack-Vectors.pdf)
 
