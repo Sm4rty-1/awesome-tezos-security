@@ -77,5 +77,5 @@ This repository serves as a comprehensive resource that delves into the various 
 - [Website](https://tezos.com/)
 - [Developer Portal](https://tezos.com/developer-portal)
 - [Source Code at GitLab](https://gitlab.com/tezos/tezos)
-- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 8 EVM chains.
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 7 EVM chains.
 
